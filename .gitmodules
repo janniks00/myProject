@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = https://insidelabs-git.mathworks.com/jschroed/mytestproj.git
