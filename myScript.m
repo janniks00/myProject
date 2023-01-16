@@ -1,3 +1,4 @@
 %helloworld
 %newcomment
 %bangboom
+%localcomment
